@@ -1,2 +1,2 @@
 # Selenium-Automation
-Very Basic Selenium Tool
+Very Basic Selenium Tool used to manipulate the browser.
